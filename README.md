@@ -15,7 +15,7 @@
  [Indicium](https://github.com/Kite1717/Google-CodeJam-2020/blob/master/Qualification%20Round/Descriptions/Indicium.txt) 
 
 ### Solutions
-[ESAb ATAd](https://github.com/Kite1717/Google-CodeJam-2020/blob/master/Qualification%20Round/Solutions/ESAb%20ATAd.cpp) **(1pts, 9pts, 16pts)** ✔️✔️✔️
+[ESAb ATAd](https://github.com/Kite1717/Google-CodeJam-2020/blob/master/Qualification%20Round/Solutions/ESAb%20ATAd.cpp) **(1pts, 9pts, 16pts)**   ✔️✔️✔️
  
  [Nesting Depth](https://github.com/Kite1717/Google-CodeJam-2020/blob/master/Qualification%20Round/Solutions/CodeJam/src/com/codeJam/NestingDepth.java) **(5pts, 11pts)** ✔️✔️
  
